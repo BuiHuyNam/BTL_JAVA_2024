@@ -1,0 +1,15 @@
+SV4, Vũ Đình Duy, KTPM, 30/01/2003,Nam
+SV6, Bùi Huy Nam, KTPM, 11/11/2003,Nam
+SV7, Nguyễn Thị Giang, Ngôn ngữ Anh, 01/01/2002,Nữ
+SV8, Nguyễn Bá Hiệp,CNTT, 01/01/2003,Nam
+SV9, Nguyễn Thị Linh, Ngôn ngữ Trung, 01/01/2003,Nữ
+SV10, Nguyễn Mai Khánh, Ngôn ngữ Trung,11/09/2003,Nữ
+SV11, Nguyễn Thành Luân, Ngôn ngữ Nhật, 21/12/2002,Nam
+SV12, Nguyễn Thị Minh, QTKS, 01/01/2002,Nữ
+SV2, Nguyễn Chí Bình, CNTT,05/02/2003,Nam
+SV3, Nguyễn Thị Chăm,QLKD,11/08/2004,Nữ
+SV13,Phạm Văn Ngọc,Kế toán,05/12/2002,Nam
+SV5, Lương Thu Hường, CNTT, 19/02/2003,Nữ
+SV1,Khương Công Tuấn Anh, CNTT,17/10/2004,Nam
+SV14,Nguyễn Hoàng Hiệp,Điện,20/05/2004,Nam
+SV15,Lê Minh Hùng,KTPM,17/12/2003,Nam

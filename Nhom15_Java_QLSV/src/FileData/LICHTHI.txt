@@ -1,0 +1,59 @@
+Kết thúc học phần,Lập trình java,26/02/2024,14h30,703,A1,3
+SV4
+SV5
+SV2
+
+Kết thúc học phần,Quản lý dự án công nghệ thông tin,29/02/2024,7h30,701,A1,4
+SV4
+SV5
+SV2
+SV3
+
+Bảo vệ đồ án tốt nghiệp,Kỹ thuật phần mềm,20/03/2024,7h,604,A1,1
+SV4
+
+Đánh giá thường xuyên,Ngoại ngữ chuyên ngành,21/02/2024,17h30,710,A10,10
+SV5
+SV6
+SV7
+SV8
+SV9
+SV10
+SV11
+SV12
+SV2
+SV3
+
+Giữa kỳ,Ngoại ngữ chuyên ngành,27/02/2024,14h,710,A10,10
+SV5
+SV6
+SV7
+SV8
+SV9
+SV10
+SV11
+SV12
+SV2
+SV3
+
+Đánh giá năng lực,Ứng dụng thuật toán,30/03/2024,7h30,603,A8,5
+SV4
+SV5
+SV2
+SV3
+SV13
+
+Đánh giá năng lực,Đồ họa máy tính,30/03/2024,7h30,602,A8,4
+SV4
+SV5
+SV2
+SV3
+
+Kết thúc học phần,An toàn bảo mật thông tin,29/02/2024,15h30,419,A7,6
+SV4
+SV6
+SV8
+SV2
+SV3
+SV5
+
